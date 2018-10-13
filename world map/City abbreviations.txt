@@ -1,0 +1,40 @@
+Settlement Sizes:
+Village (unmapped): *-500
+Small Town: 		500-2000
+Town: 				2000-4000
+Large Town: 		4000-8000
+City: 				8000-12000
+Large City: 		12000-*
+
+Unused names:
+Bonville
+
+Riverbend
+Reichsstad
+
+
+Settlement List:
+Ad	Altdorf			Town
+Agm	Algermunde		Large City
+Arm	Ardenmond		Town
+Arv	Ardonville		Town
+Bh	Brighem			Town
+Fb	Friedrichsburg	Large Town
+Gf	Greenfield		Town
+Kb	Königsberg		Large Town
+Kr	Krast			City
+Mb	Malbruck		Large Town
+Mg	Mergrad			Large Town
+Ms	Monnstadt		Large Town
+Mw	Mistwater		City
+Ob	Otherburg		Town
+Og	Oblograd		Town (Fortress)
+Pb	Pearlbridge		Town
+Prz	Przemysl		Large Town (Fortress)
+Rb	Rotbrücken		Town
+Sb	Stromborg		Town
+Sg	Stalgau			Town
+Stb	Steierbach		Large City
+Vb	Voerbrugge		Small Town
+
+
